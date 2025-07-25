@@ -15,10 +15,3 @@ python -m src.models.gbm
 python -m src.models.ensemble
 python -m src.predict.oct25
 python -m src.submission.make_csv
-
----
-
-### LICENSE (MIT boilerplate)
-
-```text
-MIT License … (fill in team details)
